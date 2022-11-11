@@ -1,0 +1,1 @@
+https://git.cira-lab.com/cira/cira-core
